@@ -17,3 +17,5 @@ Procedure :
         => Confusion matix used for validation that gives accuracy with true postive, true negative, false positive, false negative values.                
         => Observe how our model classify our new data.     
 
+Evaluating models performance by confusion matix and cross validation with visual representation is also carried out in the code 
+
